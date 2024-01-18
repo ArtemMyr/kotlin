@@ -26,4 +26,11 @@ fun main() {
 //    }
 //    return result
 //    }
+
+//Shortest Word
+//fun findShort(s: String): Int {
+//    return s.split(" ").minByOrNull { it.length }?.length ?: 0
+//}
+
+    
 }
